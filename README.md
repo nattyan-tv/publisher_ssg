@@ -1,0 +1,2 @@
+# Publisher SSG
+Publisherのレポジトリ用のJSONファイルを、MarkdownとかJSONから生成するためのプログラム。
